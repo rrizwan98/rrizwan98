@@ -1,7 +1,7 @@
 ### Hi I am Raza 👋
 
-<!--
-**rrizwan98/rrizwan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+mortar_board I’m an Data Science enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
