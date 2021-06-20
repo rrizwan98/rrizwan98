@@ -1,5 +1,12 @@
 ### Hi I am Raza 👋
 
+<a href="www.linkedin.com/in/raza-rizwan98">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="rrizwan1998@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 
 ### About Me 🚀
 🎓 I’am a Junior Data Science my Bachelors in Software Engineering From Sir Syed University. </br>
