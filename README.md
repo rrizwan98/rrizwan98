@@ -3,16 +3,14 @@
 
 ### About Me 🚀
 🎓 I’am a Junior Data Science my Bachelors in Software Engineering From Sir Syed University. </br>
-👨‍💻  I am passionate about computer vision, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Natural Language Processing & computer vision, Machine Learning & I enjoy learning new things about AI. </br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### Skills 🎓
+- Data Extraction using <strong>Beautiful Soap</strong> and <strong>Selenium</strong>.
+- Exploratory Data Analysis using <strong>Pandas</strong>.
+- Data Visualization <strong>Matplotlib</strong> and <strong>Seaborn</strong>.
+- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong> and <strong>PyCaret</strong>.
+- Deep Learning  with <strong>TensorFlow</strong>.
+- Amazon Web Service (AWS) using  <strong>Sagemaker</strong>.
+- Backend Development using <strong>Django</strong> and <strong>Flask</strong>
+- Computer Vission using  <strong>CNN,YOLO2,VGG16,VGG19</strong>
