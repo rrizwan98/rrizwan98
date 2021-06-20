@@ -16,7 +16,7 @@
 - Data Extraction using <strong>Beautiful Soap</strong> and <strong>Selenium</strong>.
 - Exploratory Data Analysis using <strong>Pandas</strong>.
 - Data Visualization <strong>Matplotlib</strong> and <strong>Seaborn</strong>.
-- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong> and <strong>PyCaret</strong>.
+- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong>.
 - Deep Learning  with <strong>TensorFlow</strong>.
 - Amazon Web Service (AWS) using  <strong>Sagemaker</strong>.
 - Backend Development using <strong>Django</strong> and <strong>Flask</strong>
