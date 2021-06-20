@@ -1,7 +1,9 @@
 ### Hi I am Raza 👋
 
 
-mortar_board I’m an Data Science enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
+### About Me 🚀
+🎓 I’am a Junior Data Science my Bachelors in Software Engineering From Sir Syed University. </br>
+👨‍💻  I am passionate about computer vision, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
 Here are some ideas to get you started:
 
