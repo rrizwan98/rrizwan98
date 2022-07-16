@@ -12,7 +12,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’am a Data Science & MLOps Engineer my field of interest is AWS Machine learning with a special focus on MLOps & DataOps concepts, implement machine learning algorithm & Deep(Neural Network) in MLOps. </br>
+🎓 I'm a Data Science & MLOps Engineer my field of interest is AWS Machine learning with a special focus on MLOps & DataOps concepts, implement machine learning algorithm & Deep(Neural Network) in MLOps. </br>
 
 👨‍💻  Extensive working experience in machine learning, AWS Machine learning, and building MLOps website/Application having 1 plus year of experience. & I enjoy learning new things about AI. </br>
 
