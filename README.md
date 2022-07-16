@@ -27,6 +27,8 @@
 
 ### Portfolio
 
+Data Science Machine learning in AWS & MLOps portfolio.
+
 Data Science: <a href="https://github.com/rrizwan98/Data-Science-portfolio">
 MLOps: <a href="https://github.com/rrizwan98/MLOps-Portfolio">
 AWS Sagemaker: <a href="https://github.com/rrizwan98/Data-Science-portfolio/tree/main/AWS-Sagemaker">
