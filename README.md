@@ -18,11 +18,9 @@
 
 ### Portfolio
 Data Science: <a href="https://github.com/rrizwan98/Data-Science-portfolio">
-</a>
 MLOps: <a href="https://github.com/rrizwan98/MLOps-Portfolio">
-</a>
 AWS Sagemaker: <a href="https://github.com/rrizwan98/Data-Science-portfolio/tree/main/AWS-Sagemaker">
-</a>
+
 
 ### Skills 🎓
 - MLOps using <strong>Beautiful Soap</strong> (ci-cd pipeline, DVC, mlflow, git-workflow, Heroku) </strong>.
