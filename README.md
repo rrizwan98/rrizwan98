@@ -12,15 +12,15 @@
 <br />
 
 ### About Me 🚀
-🎓 I’am a Data Science & MLOps Engineer My field of interst is AWS Machine learning with spical focus on MLOps concepts, implement machine learning algorithm & Deep(Neural Network) in MLOps, & DataOps.. </br>
+🎓 I’am a Data Science & MLOps Engineer my field of interest is AWS Machine learning with a special focus on MLOps concepts, implement machine learning algorithm & Deep(Neural Network) in MLOps, & DataOps.. </br>
+
 👨‍💻  Extensive working experience in machine learning, AWS Machine learning, and building MLOps website/Application having 1 plus year of experience. & I enjoy learning new things about AI. </br>
 
 ### Skills 🎓
-- Data Extraction using <strong>Beautiful Soap</strong> and <strong>Selenium</strong>.
-- Exploratory Data Analysis using <strong>Pandas</strong>.
+- MLOps using <strong>Beautiful Soap</strong> (ci-cd pipeline, DVC, mlflow, git-workflow, Heroku) </strong>.
+- AWS Sagemaker using <strong>(Built-in Algorithm like(blazing text, KNN, Xgboost, etc) script mode (TensorFlow, SKlearn, PyTorch, etc))</strong>.
 - Data Visualization <strong>Matplotlib</strong> and <strong>Seaborn</strong>.
 - Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong>.
 - Deep Learning  with <strong>TensorFlow</strong>.
-- Amazon Web Service (AWS) using  <strong>Sagemaker</strong>.
 - Backend Development using <strong>Django</strong> and <strong>Flask</strong>
 - Computer Vission using  <strong>CNN,YOLO2,VGG16,VGG19</strong>
