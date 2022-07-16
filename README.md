@@ -12,13 +12,13 @@
 <br />
 
 ### About Me 🚀
-🎓 I’am a Data Science & MLOps Engineer my field of interest is AWS Machine learning with a special focus on MLOps concepts, implement machine learning algorithm & Deep(Neural Network) in MLOps, & DataOps.. </br>
+🎓 I’am a Data Science & MLOps Engineer my field of interest is AWS Machine learning with a special focus on MLOps & DataOps concepts, implement machine learning algorithm & Deep(Neural Network) in MLOps. </br>
 
 👨‍💻  Extensive working experience in machine learning, AWS Machine learning, and building MLOps website/Application having 1 plus year of experience. & I enjoy learning new things about AI. </br>
 
 ### Portfolio
 
-Data Science: <a href="https://github.com/rrizwan98/Data-Science-portfolio">
+Data Science:<a href="https://github.com/rrizwan98/Data-Science-portfolio">
 MLOps: <a href="https://github.com/rrizwan98/MLOps-Portfolio">
 AWS Sagemaker: <a href="https://github.com/rrizwan98/Data-Science-portfolio/tree/main/AWS-Sagemaker">
 
@@ -30,4 +30,4 @@ AWS Sagemaker: <a href="https://github.com/rrizwan98/Data-Science-portfolio/tree
 - Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong>.
 - Deep Learning  with <strong>TensorFlow</strong>.
 - Backend Development using <strong>Django</strong> and <strong>Flask</strong>
-- Computer Vission using  <strong>CNN,YOLO2,VGG16,VGG19</strong>
+- Computer Vission using  <strong>CNN,YOLOV5,VGG16,VGG19</strong>
