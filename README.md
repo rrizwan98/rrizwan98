@@ -6,6 +6,9 @@
 <a href="rrizwan1998@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a href="https://m.facebook.com/raza.rizwan.7798">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <br />
 
 ### About Me 🚀
