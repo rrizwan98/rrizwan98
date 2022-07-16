@@ -1,4 +1,4 @@
-### Hi I am Raza 👋
+### Hi I am Raza Rizwan Data Scientist & MLOps Engineer 👋
 
 <a href="https://www.linkedin.com/in/raza-rizwan98/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -9,8 +9,8 @@
 <br />
 
 ### About Me 🚀
-🎓 I’am a Junior Data Science my Bachelors in Software Engineering From Sir Syed University. </br>
-👨‍💻  I am passionate about Natural Language Processing & computer vision, Machine Learning & I enjoy learning new things about AI. </br>
+🎓 I’am a Data Science & MLOps Engineer My field of interst is AWS Machine learning with spical focus on MLOps concepts, implement machine learning algorithm & Deep(Neural Network) in MLOps, & DataOps.. </br>
+👨‍💻  Extensive working experience in machine learning, AWS Machine learning, and building MLOps website/Application having 1 plus year of experience. & I enjoy learning new things about AI. </br>
 
 ### Skills 🎓
 - Data Extraction using <strong>Beautiful Soap</strong> and <strong>Selenium</strong>.
