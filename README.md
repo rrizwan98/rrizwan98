@@ -17,7 +17,7 @@
 👨‍💻  Extensive working experience in machine learning, AWS Machine learning, and building MLOps website/Application having 1 plus year of experience. & I enjoy learning new things about AI. </br>
 
 ### Skills 🎓
-- MLOps using <strong>Beautiful Soap</strong> (ci-cd pipeline, DVC, mlflow, git-workflow, Heroku) </strong>.
+- MLOps using </strong> (ci-cd pipeline, DVC, mlflow, git-workflow, Heroku) </strong>.
 - AWS Sagemaker using <strong>(Built-in Algorithm like(blazing text, KNN, Xgboost, etc) script mode (TensorFlow, SKlearn, PyTorch, etc))</strong>.
 - Data Visualization <strong>Matplotlib</strong> and <strong>Seaborn</strong>.
 - Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong>.
@@ -27,10 +27,12 @@
 
 ### Portfolio
 
-Data Science Machine learning in AWS & MLOps portfolio.
+Data Science, Machine learning in AWS & MLOps portfolio.
 
-Data Science: <a href="https://github.com/rrizwan98/Data-Science-portfolio/">
-MLOps: <a href="https://github.com/rrizwan98/MLOps-Portfolio/">
-AWS Sagemaker: <a href="https://github.com/rrizwan98/Data-Science-portfolio/tree/main/AWS-Sagemaker/">
-<br />
+
+[Data Science Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/)
+
+[MLOps Portfolio](https://github.com/rrizwan98/MLOps-Portfolio/)
+
+[AWS Sagemaker Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/tree/main/AWS-Sagemaker/)
 
