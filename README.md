@@ -11,6 +11,18 @@
 </a>
 <br />
 
+### Portfolio ✉️
+
+
+Data Science, Machine learning in AWS & MLOps portfolio.
+
+
+[Data Science Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/)
+
+[MLOps Portfolio](https://github.com/rrizwan98/MLOps-Portfolio/)
+
+[AWS Sagemaker Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/tree/main/AWS-Sagemaker/)
+
 ### About Me 🚀
 🎓 I'm a Data Science & MLOps Engineer my field of interest is AWS Machine learning with a special focus on MLOps & DataOps concepts, implement machine learning algorithm & Deep(Neural Network) in MLOps. </br>
 
@@ -22,7 +34,7 @@
 - Data Visualization <strong>Matplotlib</strong> and <strong>Seaborn</strong>.
 - Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong>.
 - Deep Learning  with <strong>TensorFlow</strong>.
-- Backend Development using <strong>Django</strong> and <strong>Flask</strong>
+- Backend Development using <strong>Flask</strong>
 - Computer Vission using  <strong>CNN,YOLOV5,VGG16,VGG19</strong>
 
 ### Portfolio
