@@ -21,7 +21,7 @@ Data Science, Machine learning in AWS & MLOps portfolio.
 
 [MLOps Portfolio](https://github.com/rrizwan98/MLOps-Portfolio/)
 
-[AWS Sagemaker Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/tree/main/AWS-Sagemaker/)
+[AWS Sagemaker Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/tree/main/AWS_Sagemaker_Portfolio)
 
 ### About Me 🚀
 🎓 I'm a Data Science & MLOps Engineer my field of interest is AWS Machine learning with a special focus on MLOps & DataOps concepts, implement machine learning algorithm & Deep(Neural Network) in MLOps. </br>
