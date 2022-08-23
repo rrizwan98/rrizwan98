@@ -37,14 +37,3 @@ Data Science, Machine learning in AWS & MLOps portfolio.
 - Backend Development using <strong>Flask</strong>
 - Computer Vission using  <strong>CNN,YOLOV5,VGG16,VGG19</strong>
 
-### Portfolio
-
-Data Science, Machine learning in AWS & MLOps portfolio.
-
-
-[Data Science Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/)
-
-[MLOps Portfolio](https://github.com/rrizwan98/MLOps-Portfolio/)
-
-[AWS Sagemaker Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/tree/main/AWS-Sagemaker/)
-
