@@ -15,6 +15,7 @@
 <a href="[https://www.linkedin.com/in/raza-rizwan98/](https://twitter.com/ML_model_maker)">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+</br>
 
 
 ### Portfolio ✉️
