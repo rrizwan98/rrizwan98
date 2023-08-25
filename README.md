@@ -5,7 +5,7 @@
 
 Data Science, Machine learning in AWS & MLOps portfolio.
 
-[Portfolio Website](https://rrizwan98.github.io/Raza_portfolio/)
+[Portfolio Website](https://keystoneprintingsolutions.com/))
 
 [Data Science Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/)
 
@@ -16,11 +16,11 @@ Data Science, Machine learning in AWS & MLOps portfolio.
 ## About Me 🚀
 🎓 I am a Data Science and MLOps Engineer with a strong interest in AWS Machine Learning. My expertise lies in MLOps and DataOps concepts, where I implement machine learning algorithms and deep neural networks within MLOps frameworks. </br>
 
-👨‍💻  Extensive working experience in machine learning, AWS Machine learning, and building MLOps website/Application having 1 plus year of experience. & I enjoy learning new things about AI. </br>
+👨‍💻  Extensive working experience in machine learning, AWS Machine learning, and building MLOps websites/Applications having 1 plus year of experience. & I enjoy learning new things about AI. </br>
 
 ## Skills 🎓
 - MLOps using <strong>(ci-cd pipeline, DVC, mlflow, git-workflow, Heroku)</strong>.
-- AWS Sagemaker using <strong>(Built-in Algorithm like(blazing text, KNN, Xgboost, etc) script mode (TensorFlow, SKlearn, PyTorch, etc))</strong>.
+- AWS Sagemaker using <strong>(Built-in Algorithm like(blazing text, KNN, Xgboost, etc.) script mode (TensorFlow, SKlearn, PyTorch, etc.))</strong>.
 - Data Visualization <strong>Matplotlib</strong> and <strong>Seaborn</strong>.
 - Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong>.
 - Deep Learning  with <strong>TensorFlow</strong>.
