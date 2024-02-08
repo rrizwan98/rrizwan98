@@ -1,31 +1,34 @@
-# Hi I am Raza Rizwan Data Scientist & MLOps Engineer 👋
+# Hi, I'm **Raza Rizwan** Cloud Generative AI Engineer! 👋
 
-## Portfolio ✉️
+# **EVERYTHING IS AVAILABLE THROUGH APIs**
+# Generative AI Portfolio ✉️
 
+[AI-powered APIs]()
 
-Data Science, Machine learning in AWS & MLOps portfolio.
+[GPT Actions APIs]()
 
-[Portfolio Website](https://keystoneprintingsolutions.com/)
+[AI Agents]()
 
-[Data Science Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/)
+[GENAI Apps]()
 
-[MLOps Portfolio](https://github.com/rrizwan98/MLOps-Portfolio/)
-
-[AWS Sagemaker Portfolio](https://github.com/rrizwan98/Data-Science-portfolio/tree/main/AWS_Sagemaker_Portfolio)
+[AWS Sagemaker Portfolio]()
 
 ## About Me 🚀
-🎓 I am a Data Science and MLOps Engineer with a strong interest in AWS Machine Learning. My expertise lies in MLOps and DataOps concepts, where I implement machine learning algorithms and deep neural networks within MLOps frameworks. </br>
+🎓 I'm a Cloud Generative AI Engineer working at Canz Technologies. **I don't have a resume, but I have a portfolio showcasing my experience.** The links above demonstrate my expertise.</br>
 
-👨‍💻  Extensive working experience in machine learning, AWS Machine learning, and building MLOps websites/Applications having 1 plus year of experience. & I enjoy learning new things about AI. </br>
+## 👨‍💻  Professional Experience:
 
-## Skills 🎓
-- MLOps using <strong>(ci-cd pipeline, DVC, mlflow, git-workflow, Heroku)</strong>.
-- AWS Sagemaker using <strong>(Built-in Algorithm like(blazing text, KNN, Xgboost, etc.) script mode (TensorFlow, SKlearn, PyTorch, etc.))</strong>.
-- Data Visualization <strong>Matplotlib</strong> and <strong>Seaborn</strong>.
-- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using <strong>Scikit-Learn</strong>.
-- Deep Learning  with <strong>TensorFlow</strong>.
-- Backend Development using <strong>Flask</strong>
-- Computer Vission using  <strong>CNN,YOLOV5,VGG16,VGG19</strong>
+1. We possess extensive experience in developing APIs, including those that integrate with multiple external APIs such as OpenAI or Gemini APIs, as well as PostgreSQL APIs. These APIs are designed to address real-world challenges effectively and efficiently.
+
+[Check our APIs experience]()
+
+2. Additionally, we have expertise in crafting AI-powered APIs. Our approach involves creating custom functions that interface with APIs provided by platforms like OpenAI (Assistant APIs or Chat Completion APIs) or Gemini APIs. This method, known as Function calling APIs, enables seamless integration of AI capabilities into various applications.
+
+[Check our AI-powered APIs experience]()
+
+3. Furthermore, we specialize in constructing Custom GPTs Actions. Leveraging tools such as FastAPI, we develop custom APIs that interface with Custom GPT models. These models are capable of autonomously invoking designated APIs to tackle diverse real-world problems.
+
+[Check our Build Custom GPT Custom experience]()</br>
 
 ### You can also find me on:
 
