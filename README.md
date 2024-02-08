@@ -1,7 +1,6 @@
 # Hi, I'm **Raza Rizwan** Cloud Generative AI Engineer! 👋
 
-# **EVERYTHING IS AVAILABLE THROUGH APIs**
-# Generative AI Portfolio ✉️
+## Portfolio ✉️
 
 [AI-powered APIs]()
 
@@ -13,10 +12,12 @@
 
 [AWS Sagemaker Portfolio]()
 
+# **EVERYTHING IS an API**
+
 ## About Me 🚀
 🎓 I'm a Cloud Generative AI Engineer working at Canz Technologies. **I don't have a resume, but I have a portfolio showcasing my experience.** The links above demonstrate my expertise.</br>
 
-## 👨‍💻  Professional Experience:
+## Professional Experience:
 
 1. We possess extensive experience in developing APIs, including those that integrate with multiple external APIs such as OpenAI or Gemini APIs, as well as PostgreSQL APIs. These APIs are designed to address real-world challenges effectively and efficiently.
 
