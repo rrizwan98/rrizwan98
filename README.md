@@ -2,15 +2,15 @@
 
 ## Portfolio ✉️
 
-[AI-powered APIs]()
+[AI-APIs](https://github.com/rrizwan98/AI-APIs)
+
+[AI-powered-APIs]()
 
 [GPT Actions APIs]()
 
 [AI Agents]()
 
 [GENAI Apps]()
-
-[AWS Sagemaker Portfolio]()
 
 # **EVERYTHING IS an API**
 
