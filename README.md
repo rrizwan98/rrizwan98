@@ -4,7 +4,7 @@
 
 [AI-APIs](https://github.com/rrizwan98/AI-APIs/tree/main/AI-APIs/)
 
-[AI-powered-APIs]()
+[AI-powered-APIs](https://github.com/rrizwan98/AI-Powered-APIs)
 
 [GPT Actions APIs]()
 
@@ -25,7 +25,7 @@
 
 2. Additionally, we have expertise in crafting AI-powered APIs. Our approach involves creating custom functions that interface with APIs provided by platforms like OpenAI (Assistant APIs or Chat Completion APIs) or Gemini APIs. This method, known as Function calling APIs, enables seamless integration of AI capabilities into various applications.
 
-[Check our AI-powered APIs experience]()
+[Check our AI-powered APIs experience](https://github.com/rrizwan98/AI-Powered-APIs)
 
 3. Furthermore, we specialize in constructing Custom GPT actions. Leveraging tools such as FastAPI, we develop custom APIs that interface with Custom GPT models. These models are capable of autonomously invoking designated APIs to tackle diverse real-world problems.
 
