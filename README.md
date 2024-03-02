@@ -6,7 +6,7 @@
 
 [AI-powered-APIs](https://github.com/rrizwan98/AI-Powered-APIs)
 
-[GPT Actions APIs]()
+[GPT Actions and APIs](https://github.com/rrizwan98/GPT-action-and-APIs)
 
 [AI Agents]()
 
@@ -29,7 +29,7 @@
 
 3. Furthermore, we specialize in constructing Custom GPT actions. Leveraging tools such as FastAPI, we develop custom APIs that interface with Custom GPT models. These models are capable of autonomously invoking designated APIs to tackle diverse real-world problems.
 
-[Check our Build Custom GPT Custom experience]()</br>
+[Check our Custom GPT and their APIs experience](https://github.com/rrizwan98/GPT-action-and-APIs)</br>
 
 ### You can also find me on:
 
