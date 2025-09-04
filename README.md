@@ -1,8 +1,8 @@
-# Hi, I'm **Raza Rizwan** Cloud Generative AI Engineer! 👋
+# Hi, I'm **Raza Rizwan** Agentic AI Engineer! 👋
 
 ## Portfolio ✉️
 
-[AI-APIs](https://github.com/rrizwan98/AI-APIs/tree/main/AI-APIs/)
+[GRAI](https://grai-frontend.vercel.app/)
 
 [AI-powered-APIs](https://github.com/rrizwan98/AI-Powered-APIs)
 
