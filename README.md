@@ -4,22 +4,12 @@
 
 [GRAI](https://grai-frontend.vercel.app/)
 
-[AI-powered-APIs](https://github.com/rrizwan98/AI-Powered-APIs)
+# **AI Agents**
 
-[GPT Actions and APIs](https://github.com/rrizwan98/GPT-action-and-APIs)
+Imagine a world where AI agents power everything.
+Suppose you want to visit Europe for a vacation. Your travel agent recommends the best places based on the weather to explore. Once you confirm, the agent books the **flights**, arranges **hotel bookings**, and even handles **transportation** (cab, car, or van) for your trip.
 
-[AI Agents]()
-
-[GENAI Apps]()
-
-# **EVERYTHING IS an API**
-
-## About Me 🚀
-🎓 I'm a Cloud Generative AI Engineer working at Canz Technologies. **I don't have a resume, but I have a portfolio showcasing my experience.** The links above demonstrate my expertise.</br>
-
-## Professional Experience:
-
-1. We possess extensive experience in developing APIs, including those that integrate with multiple external APIs such as OpenAI or Gemini APIs, as well as PostgreSQL APIs. These APIs are designed to address real-world challenges effectively and efficiently.
+It goes further — the agent also manages your **meals** (breakfast, lunch, and dinner bookings). From the moment you leave your home until you return, the AI agent is there to assist you at every step of your journey.
 
 [Check our APIs experience](https://github.com/rrizwan98/AI-APIs/tree/main/AI-APIs/)
 
