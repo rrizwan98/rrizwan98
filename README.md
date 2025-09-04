@@ -11,7 +11,11 @@ Suppose you want to visit Europe for a vacation. Your travel agent recommends th
 
 It goes further — the agent also manages your **meals** (breakfast, lunch, and dinner bookings). From the moment you leave your home until you return, the AI agent is there to assist you at every step of your journey.
 
+---
+
 🌐 Explore our live platform here: [**GRAI – Grocery & Expense Management**](https://grai-frontend.vercel.app/)  
+
+---
 
 # 🛒 Grocery & Monthly Spending Management System  
 
