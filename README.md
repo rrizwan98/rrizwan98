@@ -11,15 +11,18 @@ Suppose you want to visit Europe for a vacation. Your travel agent recommends th
 
 It goes further — the agent also manages your **meals** (breakfast, lunch, and dinner bookings). From the moment you leave your home until you return, the AI agent is there to assist you at every step of your journey.
 
-[Check our APIs experience](https://github.com/rrizwan98/AI-APIs/tree/main/AI-APIs/)
+🌐 Explore our live platform here: [**GRAI – Grocery & Expense Management**](https://grai-frontend.vercel.app/)  
 
-2. Additionally, we have expertise in crafting AI-powered APIs. Our approach involves creating custom functions that interface with APIs provided by platforms like OpenAI (Assistant APIs or Chat Completion APIs) or Gemini APIs. This method, known as Function calling APIs, enables seamless integration of AI capabilities into various applications.
+# 🛒 Grocery & Monthly Spending Management System  
 
-[Check our AI-powered APIs experience](https://github.com/rrizwan98/AI-Powered-APIs)
+✨ A **next-gen platform** to track, manage, and optimize your **monthly expenses** like groceries, medicines, and utilities.  
+📊 Features a **powerful dashboard** with real-time insights: spending trends, budget progress, salary vs. expenses, and financial health.  
+🤖 Data entry is **smarter than ever** – add manually, via **AI agents** (text, image, email receipts), or even through phone calls.  
+⏰ Automate tasks like **monthly grocery plans, saving reports, and cashflow analysis** with ease.  
+🌍 Powered by a **global AI agent** for intelligent guidance, seamless reporting, and personalized recommendations.  
 
-3. Furthermore, we specialize in constructing Custom GPT actions. Leveraging tools such as FastAPI, we develop custom APIs that interface with Custom GPT models. These models are capable of autonomously invoking designated APIs to tackle diverse real-world problems.
-
-[Check our Custom GPT and their APIs experience](https://github.com/rrizwan98/GPT-action-and-APIs)</br>
+🔮 **Future Ready:** Multi-user access · Multilingual support · WhatsApp/phone integration · Daily meal planning.  
+💡 Designed to **scale globally** with potential to impact **millions of households** worldwide.  
 
 ### You can also find me on:
 
